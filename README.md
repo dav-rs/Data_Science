@@ -1,6 +1,12 @@
 # Data_Analysis
-This repo contains different folders with projects related to the main areas of Data_Science. In Data_Analysis projects the main focus is in the modelling for interpretation and prediction analysis. The following description gives general information about each project.
-1. Data_Analysis/forest_fires:
+This repo contains different projects related to the main areas of Data_Science using Python, R or Spark (PySpark). The projects focus in interpretation, predictive analysis or both. The following description gives general information about each project.
+## Python
+1. news_scrapper: Scrapping news from one of Australia's news websites. This project has an educational scope, and none of the data scrapped was used for any commercial purposes.
+2. topic_modelling: Using as input the data from the first project, we use LDA (Latent Dirichlet Allocation) to grouped into topics and analyse the results
+3. EDA_melb_housing: Using a dataset containing information about Victoria Housing we focus on the Melbourne housing market and perform some EDA to gain some general insights about this dataset
+
+## R
+1. Data_Analysis: Interpretation and prediction of Forest fires.
 * data can be found in https://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/
 * programming language: R 3.5.1
 2. Visualization/shiny_app_usa_traffic: Shiny App using R for interactive visualization of traffic fatalities in the US - 2015
