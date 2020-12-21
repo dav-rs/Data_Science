@@ -16,5 +16,3 @@ This repo contains different projects related to the main areas of Data_Science 
 
 ## EXTRA
 An additional manual for setting up an Apache Spark cluster using 2 Ubuntu virtual machines is included in the file SettingUp_SparkCluster.pdf 
-
-#### Conflict line After Merge
