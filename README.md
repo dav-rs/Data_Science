@@ -1,5 +1,5 @@
 # Data_Analysis
-This repo contains different projects related to the main areas of Data_Science using Python, R or Spark (PySpark). The projects focus in interpretation, predictive analysis or both. The following description gives general information about each project.
+This repo contains different projects related to the main areas of Data_Science using Python, R or Spark (PySpark). The projects focus is interpretation, predictive analysis or both. The following description gives general information about each project.
 ## Python
 1. news_scrapper: Scrapping news from one of Australia's news websites. This project has an educational scope, and none of the data scrapped was used for any commercial purposes.
 2. topic_modelling: Using as input the data from the first project, we use LDA (Latent Dirichlet Allocation) to grouped into topics and analyse the results
@@ -13,3 +13,6 @@ This repo contains different projects related to the main areas of Data_Science 
 * Description of data sources:
   - Tabular data: 32K rows x 52 columns with spatial and temporal attributes. Data from: https://data.world/transportation/2015-traffic-fatalities
   - Tabular data in xls with SAT scores for each state in 56 rows and 19 columns. Data from: https://nces.ed.gov/programs/digest/d16/tables/dt16_226.40.asp
+
+## EXTRA
+An additional manual for setting up an Apache Spark cluster using 2 Ubuntu virtual machines is included in the file SettingUp_SparkCluster.pdf 
