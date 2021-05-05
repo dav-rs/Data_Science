@@ -1,10 +1,10 @@
 # Data_Analysis
-This repo contains different projects related to the main areas of Data_Science using Python or R. The projects' focus is interpretation, predictive analysis or both. The following description gives general information about each project.
+This repo contains different projects related to the main areas of Data_Science using Python, PySpark or R. The projects' focus is interpretation, predictive analysis or both. The following description gives general information about each project.
 ## Python
 1. news_scrapper: Scrapping news from one of Australia's news websites. This project has an educational scope, and none of the data scrapped was used for any commercial purposes.
 2. topic_modelling: Using the scrapped data as input, we use LDA (Latent Dirichlet Allocation) to group it into topics and analyze the results
 3. EDA_melb_housing: Using a dataset containing information about Victoria Housing we focus on the Melbourne housing market and perform some EDA to gain some general insights about this dataset
-
+4. classification_pySpark: This Jupyter notebook contains a classification model**(Gradient Boosted Trees)** for predicting hacking attacks on a dataset containing memory and process activity from Linux systems. (https://ieee-dataport.org/documents/toniot-datasets). 
 ## R
 1. Data_Analysis: Interpretation and prediction of bush fires.
 * data can be found in https://archive.ics.uci.edu/ml/machine-learning-databases/forest-fires/
